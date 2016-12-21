@@ -12,6 +12,7 @@ class testClass
         echo 'test';
         echo 'test2';
         echo 'test3';
+        echo 'git2.test4';
 
     }
 } 
