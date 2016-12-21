@@ -10,5 +10,6 @@ class testClass
     public function index()
     {
         echo 'test';
+        echo 'test2';
     }
 }
