@@ -10,9 +10,14 @@ class testClass
     public function index()
     {
         echo 'test';
-        echo 'test2';
-        echo 'test3';
-        echo 'git2.test4';
 
+        $a = 10;
+        for ($i = 0; $i < $a; $i++) {
+            echo 'Magento';
+            
+            
+        }
+        
+        echo 'magento';
     }
 } 
